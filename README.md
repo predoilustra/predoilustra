@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hello, i'm Pedro Augusto 👾</h1>
 
-<!--
-**predoilustra/predoilustra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end developer from Brazil 🇧🇷
+- 💻 Studying systems analysis and development
+- ⌨️ Learning C++ and C#
+- 👥 He/Him
 
-Here are some ideas to get you started:
+### Skills:
+------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+
+</div>
+
+
+
+------------
+
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=predoilustra&theme=modern-lilac2&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)" />
+ </div>
