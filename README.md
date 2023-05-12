@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World! I'm Pedro Augusto 👾</h1>
 
-I'm a front-end developer from Brazil 🇧🇷
+I'm a developer from Brazil 🇧🇷
 - 💻 Studying Analysis and Systems Development
 - ⌨️ Learning C++ and C#
 - 👥 He/Him
